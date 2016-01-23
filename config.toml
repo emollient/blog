@@ -1,0 +1,37 @@
+baseurl = "http://petsnotcattle.com/"
+languageCode = "en-us"
+title = "Susan's blog"
+theme = "steam"
+paginate = 10
+
+[params]
+
+	title = "Susan's blog"
+	subtitle = ""
+	copyright = "Released under the MIT license."
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "green"
+	# Enable Google Analytics be inserting your tracking code
+	googleAnalytics = ""
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Susan Lunn"
+	bio = "Currently a student at Rochester Institute of Technology, but my passion seems to be joining together ops and dev, and the merits of release engineering."
+	description = "Let's talk about computers and automation."
+	location = "Rochester" # optional
+	twitter = "emolli" # optional
+	github = "emollient" # optional
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs. 
+	# comments = "disqus"
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
